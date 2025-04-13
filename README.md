@@ -10,3 +10,4 @@
 - [zustand](https://zustand.docs.pmnd.rs/getting-started/introduction)
 - [Hasura](https://console.hasura.io/home)
 - [Bun](https://bun.sh/docs/cli/install)
+- [neverthrow](https://github.com/supermacro/neverthrow)
