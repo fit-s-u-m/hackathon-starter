@@ -17,21 +17,18 @@ export const metadata: Metadata = {
   description: "This is for seo",
 };
 
-import ApolloProviderWrapper from '../lib/apolloProvider';
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
   return (
-    <ApolloProviderWrapper>
-      <html lang="en">
-        <body
-          className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-        >
-          {children}
-        </body>
-      </html>
-    </ApolloProviderWrapper>
+    <html lang="en">
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} antialiased green-theme`}
+      >
+        {children}
+      </body>
+    </html>
   );
 }

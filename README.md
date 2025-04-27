@@ -11,3 +11,4 @@
 - [Hasura](https://console.hasura.io/home)
 - [Bun](https://bun.sh/docs/cli/install)
 - [neverthrow](https://github.com/supermacro/neverthrow)
+- [twilio](https://www.twilio.com/docs/messaging/onboarding/sms-foundations)
